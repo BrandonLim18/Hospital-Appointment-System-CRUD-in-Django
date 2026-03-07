@@ -16,7 +16,8 @@ A complete Full-Stack web application featuring a RESTful API built with **Djang
 <img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/68e347b0-f5ca-4c90-8f75-8e1f70198d8a" />
 <img width="1910" height="951" alt="image" src="https://github.com/user-attachments/assets/067ffebb-4763-4e49-a78a-29abc0607ce4" />
 <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/7342a0e4-cdd2-4bb7-a452-f9c1fd499f69" />
-<img width="1587" height="753" alt="image" src="https://github.com/user-attachments/assets/90f42002-f6fe-45d5-b19b-eb6ca4534cc4" />
+<img width="1585" height="747" alt="image" src="https://github.com/user-attachments/assets/f8ec0804-19c7-47d6-8998-cee6b37965ff" />
+
 
 ## 🛠️ Tech Stack
 **Backend (API):**
