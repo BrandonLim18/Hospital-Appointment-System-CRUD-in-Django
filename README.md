@@ -4,11 +4,12 @@ A simple RESTful API built using **Django** and **Django Rest Framework (DRF)**.
 
 
 ## ✨ Features
-* **CRUD Operations:** Create, Read, Update, and Delete records.
+* **Full-Stack Architecture:** Fully decoupled backend API and frontend Single Page Application (SPA) communicating via CORS and Axios.
+* **Modern Premium UI:** A beautiful, responsive frontend styled entirely with **Tailwind CSS**, featuring glassmorphism cards, soft gradients, and interactive hover states.
+* **CRUD Operations:** Create, Read, Update, and Delete records in real-time.
 * **Doctor Management:** Track doctors by Name, Specialization, and License Number.
 * **Patient Management:** Manage patient details including DOB, Phone, and Email.
-* **Appointment Scheduling:** Link doctors and patients with specific appointment dates and statuses.
-* **API Browseable Interface:** Uses DRF's built-in web interface for easy testing.
+* **Appointment Scheduling:** Link doctors and patients with specific appointment dates, times, and dynamic color-coded statuses.
   
 ##   Screenshots
 <img width="1913" height="945" alt="image" src="https://github.com/user-attachments/assets/f935050e-27ce-4c25-9439-8be09b0b9764" />
