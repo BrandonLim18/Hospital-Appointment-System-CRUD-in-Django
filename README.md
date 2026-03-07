@@ -15,13 +15,24 @@ A simple RESTful API built using **Django** and **Django Rest Framework (DRF)**.
 <img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/68e347b0-f5ca-4c90-8f75-8e1f70198d8a" />
 <img width="1910" height="951" alt="image" src="https://github.com/user-attachments/assets/067ffebb-4763-4e49-a78a-29abc0607ce4" />
 <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/7342a0e4-cdd2-4bb7-a452-f9c1fd499f69" />
+<img width="1592" height="736" alt="image" src="https://github.com/user-attachments/assets/dc5bca19-b687-4690-acbf-1303ef16be53" />
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.x
-* **Framework:** Django 5.x
-* **API Toolkit:** Django Rest Framework
-* **Database:** SQLite (default)
+**Backend (API):**
+* Python 3.x
+* Django 5.x
+* Django Rest Framework (DRF)
+* Django CORS Headers
+* SQLite (Default Database)
 
+**Frontend (Client):**
+* React 18
+* TypeScript
+* Tailwind CSS (v3)
+* Axios (HTTP Client)
+* Node.js & npm
+
+  
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
@@ -52,7 +63,15 @@ A simple RESTful API built using **Django** and **Django Rest Framework (DRF)**.
     ```bash
     python manage.py runserver
     ```
-
+6. **Open a SECOND terminal tab, go into the frontend folder, and install the React tools:**
+    ```bash
+    cd front
+    npm install
+    ```
+7.  **Start the React frontend server:**
+   ```bash
+    npm start
+    ```
 ## 🔗 API Endpoints
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
